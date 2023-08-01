@@ -76,4 +76,4 @@ Tambien podemos usar el [Sepolia faucet](https://sepoliafaucet.com) de alchemy s
 
 ## Siguiente Paso
 
-Ahora es momento de crear nuestra criptomoneda. Puedes seguir a la [siguiente parte]() de este tutorial.
+Ahora es momento de crear nuestra criptomoneda. Puedes seguir a la [siguiente parte](https://github.com/apholdings/Curso_Criptomonedas_Ethereum/tree/main/Parte%202%29%20Crear%20Criptomonedas) de este tutorial.
