@@ -57,4 +57,4 @@ module.exports = {
 };
 ```
 
-Y con eso, ¡tu entorno de desarrollo está listo! Ahora puedes empezar a escribir tus contratos inteligentes en Solidity.
+Y con eso, ¡tu entorno de desarrollo está listo! Ahora puedes empezar a escribir tus contratos inteligentes en Solidity. Seguiremos a la [siguiente parte de este tutorial](https://github.com/apholdings/Curso_Criptomonedas_Ethereum/tree/main/Parte%201%29%20Aprendiendo%20Solidity).
