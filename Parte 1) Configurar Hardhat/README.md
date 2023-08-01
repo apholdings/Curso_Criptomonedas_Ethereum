@@ -73,3 +73,7 @@ module.exports = {
 Ahora debemos entrar a este [faucet](https://goerli-faucet.pk910.de/) de goerliEth y minar la criptomoneda por un rato. Para obtener la recompensa debemos poner la direccion de cuenta que usaremos.
 
 Tambien podemos usar el [Sepolia faucet](https://sepoliafaucet.com) de alchemy si es que deseamos usar ese network en lugar de goerli.
+
+## Siguiente Paso
+
+Ahora es momento de crear nuestra criptomoneda. Puedes seguir a la [siguiente parte]() de este tutorial.
