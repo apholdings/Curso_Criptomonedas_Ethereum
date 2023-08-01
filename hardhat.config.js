@@ -1,4 +1,6 @@
-require("nomicfoundation/hardat-toolbox");
+require("@nomicfoundation/hardhat-toolbox");
+require("@nomicfoundation/hardhat-ethers");
+require("@nomicfoundation/hardhat-chai-matchers");
 require("dotenv").config()
 
 module.exports = {
@@ -6,13 +8,15 @@ module.exports = {
 
     networks: {
         sepolia: {
-            url: process.env.ETHEREUM_TESTNET_RPC,
+            url: process.env.ETHEREUM_SEPOLIA_TESTNET_RPC,
             accounts: [process.env.PRIVATE_KEY]
         }
     },
 
     etherscan: {
-        apiKey: process.env.POLYGONSCAN_API_KEY,
+        apiKey: {
+            sepolia: process.env.ETHERSCAN_API_KEY
+        }
     },
 
     paths: {
