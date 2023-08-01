@@ -1,4 +1,4 @@
-# Aprendiendo Solidity
+# Como Configurar Hardhat
 
 Ahora aprenderemos a crear contratos inteligentes, probarlos y desplegarlos en hardhat. Primero debemos familiarizarnos con el lenguaje de programacion de los contratos inteligentes Solidity.
 
